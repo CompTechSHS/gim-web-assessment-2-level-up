@@ -17,7 +17,7 @@
 body {
   font-family: Arial, sans-serif;
   color: #8af780;
-  background: #000000;
+  background: #0b0b0b;
   line-height: 1.5;
 }
 
@@ -38,7 +38,7 @@ body {
    Add background colour, centre text and padding for site header/footer.
    ======================== */
 header, footer {
-  background: #000000;
+  background: #726a6a;
   text-align: center;
   padding: 1em;
 }
