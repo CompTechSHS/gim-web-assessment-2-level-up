@@ -16,8 +16,8 @@
    ======================== */
 body {
   font-family: Arial, sans-serif;
-  color: #333;
-  background: #fff;
+  color: #8af780;
+  background: #0b0b0b;
   line-height: 1.5;
 }
 
@@ -38,7 +38,7 @@ body {
    Add background colour, centre text and padding for site header/footer.
    ======================== */
 header, footer {
-  background: #f4f4f4;
+  background: #726a6a;
   text-align: center;
   padding: 1em;
 }
@@ -55,5 +55,5 @@ nav {
 nav a {
   margin: 0 0.5em;
   text-decoration: none;
-  color: #333;
+  color: #000000;
 }
